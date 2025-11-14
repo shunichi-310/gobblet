@@ -1,0 +1,23 @@
+fileFormatVersion: 2
+guid: ff18c95b6f79c034dba805a5919ad237
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - BlueBig1: {fileID: 6684215269552785491, guid: d2a773ef92320c9488b3cb8422d572ab, type: 3}
+  - BlueBig2: {fileID: 8131744737447220723, guid: e93c2eb950ff7804498635ecf8800cd4, type: 3}
+  - BlueMedium1: {fileID: 6690087653202549984, guid: 8abf77cabfa252844ba595134df28a01, type: 3}
+  - BlueMedium2: {fileID: 7971172658883111727, guid: 933e8b7d6357d7844bf4a000819c4e2d, type: 3}
+  - BlueSmall1: {fileID: 3033903648009129021, guid: 5dd8890381614944da3b65d50221462d, type: 3}
+  - BlueSmall2: {fileID: 5297850472195837270, guid: 7a125f1c291bb7c47ab1da4b14c93afc, type: 3}
+  - OrangeBig1: {fileID: 3005028671234800590, guid: 98f821a4735ee41428015e603f0d7871, type: 3}
+  - OrangeBig2: {fileID: 948213941062379867, guid: 2444ff7523a913f44a612db8c236ec2d, type: 3}
+  - OrangeMedium1: {fileID: 6394845947571429796, guid: a85f6b84399c3f141945781c74044bf6, type: 3}
+  - OrangeMedium2: {fileID: 271343066102400884, guid: 0387e3d72b396ba4d918fbb118ce0b91, type: 3}
+  - OrangeSmall1: {fileID: 3806972947203577257, guid: 7eb5b69a97b3b2f46963f130e6e83b9e, type: 3}
+  - OrangeSmall2: {fileID: 1455636493884421032, guid: 19d376e6cb10e7249a445941f2e5bf38, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
